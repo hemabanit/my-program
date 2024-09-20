@@ -1,0 +1,9 @@
+<html>
+<head>
+<tittle>inline css </tittle>
+</head>
+<body
+<h1 style = "colour : red background - colour :pink,"
+in line css </h1>
+</body>
+</html>
